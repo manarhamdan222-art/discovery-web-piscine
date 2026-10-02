@@ -5,7 +5,7 @@ Add:
 git add README.md
 
 Commit: 
-git commit -m "Upodate README"
+git commit -m "Update README"
 
 Push:
 git push
