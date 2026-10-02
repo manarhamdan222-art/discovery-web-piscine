@@ -1,3 +1,4 @@
+#!/bin/bash
 touch draft.txt
 echo "This is the first line." > draft.txt
 echo "This is the second line." >> draft.txt
